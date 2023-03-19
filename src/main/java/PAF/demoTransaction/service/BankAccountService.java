@@ -24,7 +24,7 @@ public class BankAccountService {
         Boolean bTransferred = false;
         Boolean bWithdrawn = false;
         Boolean bDeposited = false;
-        Boolean bCanWithdraw = false;
+        // Boolean bCanWithdraw = false;
 
         BankAccount depositAccount = null;
         BankAccount withdrawalAccount = null;
